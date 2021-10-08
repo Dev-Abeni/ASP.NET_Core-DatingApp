@@ -42,4 +42,16 @@ E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\net
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.AssemblyReference.cache
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
