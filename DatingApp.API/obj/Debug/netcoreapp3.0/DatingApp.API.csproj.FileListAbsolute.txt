@@ -55,3 +55,4 @@ E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\net
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.AssemblyReference.cache
