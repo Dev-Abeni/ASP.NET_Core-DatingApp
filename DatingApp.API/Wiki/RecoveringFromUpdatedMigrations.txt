@@ -1,0 +1,6 @@
+﻿The best possible way to recover from updated migrations is 
+1. Dropping (deleting) the database
+2. Remove the migration with the issue
+3. Update the database with the remaining migrations
+
+** Note that this method remove the seeded data in the database. 
