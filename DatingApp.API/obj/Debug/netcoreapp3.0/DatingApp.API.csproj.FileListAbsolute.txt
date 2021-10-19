@@ -61,4 +61,10 @@ E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\net
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\CloudinaryDotNet.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.WebEncoders.dll
+E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
 E:\Personal\Personal Projects\ASP.NET Core\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.AssemblyReference.cache
